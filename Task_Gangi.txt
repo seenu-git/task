@@ -54,4 +54,4 @@ Daily tasks
 ----------
 
 - today i have a interveiw call
-- i am focusing on terraform
+- i am preparing and creating infra using terraform
